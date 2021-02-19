@@ -1,0 +1,8 @@
+/.eggs
+/.tox
+/.vscode
+/.cs506.egg-info
+/.env
+/.coverage
+/.tests
+/tox.ini
